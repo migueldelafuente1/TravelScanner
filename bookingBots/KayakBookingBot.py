@@ -4,6 +4,7 @@ Created on 24 feb. 2020
 @author: Miguel
 '''
 from bookingBots.WebDriver import BookingBot
+from time import sleep
 
 class KayakBookingBot(BookingBot):
     
